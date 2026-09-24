@@ -1,0 +1,6 @@
+## Interface: 16001
+## Title: NoFrameHint
+## Notes: Removes Blizzard's frame settings hint from unit frame tooltips.
+## Version: 0.1.0
+
+NoFrameHint.lua
